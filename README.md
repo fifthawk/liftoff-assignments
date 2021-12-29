@@ -21,4 +21,4 @@ Now that you know what this repo is for let's get it setup.
 
 Click the [P1 - Assignment Repository Setup](./P1-Assignment_Repository_Setup/) repo for further instructions.
 
-![Mockup 1](https://preview.uxpin.com/2a43afc5bc41bdc6a0e3e69e4a3406ea7e26d270#/pages//simulate/no-panels?mode=i)
+![Mockup 1](https://ibb.co/1vwN9Mw)
